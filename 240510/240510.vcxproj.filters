@@ -18,5 +18,8 @@
     <ClCompile Include="prac1_class_rectangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="prac1.1_class_rectangle_copy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
