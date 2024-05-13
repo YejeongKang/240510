@@ -21,5 +21,8 @@
     <ClCompile Include="prac1.1_class_rectangle_copy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="prac2_get_set.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
